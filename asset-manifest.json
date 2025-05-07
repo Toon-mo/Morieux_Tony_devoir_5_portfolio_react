@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/morieux_tony_devoir_5_portfolio_john_doe_react/static/css/main.b6baa316.css",
+    "main.js": "/morieux_tony_devoir_5_portfolio_john_doe_react/static/js/main.3ee514e7.js",
+    "static/media/hero-bg.jpg": "/morieux_tony_devoir_5_portfolio_john_doe_react/static/media/hero-bg.b8e12f2e72b502a5488a.jpg",
+    "static/media/fresh-food.jpg": "/morieux_tony_devoir_5_portfolio_john_doe_react/static/media/fresh-food.f9cd00cae747ce16b0ee.jpg",
+    "static/media/seo.jpg": "/morieux_tony_devoir_5_portfolio_john_doe_react/static/media/seo.6bcd3f1167b406ea1f61.jpg",
+    "static/media/screens.jpg": "/morieux_tony_devoir_5_portfolio_john_doe_react/static/media/screens.0a86655b7e4e2f075a26.jpg",
+    "static/media/restaurant-japonais.jpg": "/morieux_tony_devoir_5_portfolio_john_doe_react/static/media/restaurant-japonais.12050b46a3cca523c6c9.jpg",
+    "static/media/coder.jpg": "/morieux_tony_devoir_5_portfolio_john_doe_react/static/media/coder.e936b864e20943704d2a.jpg",
+    "static/media/banner.jpg": "/morieux_tony_devoir_5_portfolio_john_doe_react/static/media/banner.55f7c897ddbeb816abb9.jpg",
+    "static/media/john-doe-about.jpg": "/morieux_tony_devoir_5_portfolio_john_doe_react/static/media/john-doe-about.07bb2b3f66fb2530c208.jpg",
+    "static/media/espace-bien-etre.jpg": "/morieux_tony_devoir_5_portfolio_john_doe_react/static/media/espace-bien-etre.f6f025ed9a6d4d00b431.jpg",
+    "index.html": "/morieux_tony_devoir_5_portfolio_john_doe_react/index.html",
+    "main.b6baa316.css.map": "/morieux_tony_devoir_5_portfolio_john_doe_react/static/css/main.b6baa316.css.map",
+    "main.3ee514e7.js.map": "/morieux_tony_devoir_5_portfolio_john_doe_react/static/js/main.3ee514e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6baa316.css",
+    "static/js/main.3ee514e7.js"
+  ]
+}
